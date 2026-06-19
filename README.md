@@ -14,7 +14,7 @@ The Student Registration Form collects basic student information including:
 - Email Address
 - Additional Notes
 
-This project is ideal for beginners who are learning HTML forms and user input handling.
+This project is ideal for beginners who are learning HTML forms and user input handling.which helps them to start their beginning.
 
 ## 🚀 Features
 
